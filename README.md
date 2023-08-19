@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Igor Anthony
 
-
+<h5>Tenho conhecimento sobre essas tecnologias</h5>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
